@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jkohncode
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on Web Design
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to share knowledge with other aspiring cybersecurity professionals
 - 📫 How to reach me- LinkedIn
 
 <!---
